@@ -7,3 +7,4 @@ if a<b:
     print("true")
 
 print("me as sneha")
+print("ganesha as loard")
